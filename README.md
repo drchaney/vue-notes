@@ -1,2 +1,1 @@
-# vue-notes
-Notes on learning Vue3
+# learn Vue
